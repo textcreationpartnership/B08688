@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The charge of the admirals of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08688</idno>
+            <idno type="STC">Wing C2058A</idno>
+            <idno type="STC">ESTC R224554</idno>
+            <idno type="EEBO-CITATION">64551060</idno>
+            <idno type="OCLC">ocm 64551060</idno>
+            <idno type="VID">184441</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08688)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184441)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2864:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The charge of the admirals of England</title>
+               </titleStmt>
+               <extent>1 sheet  ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Batcherler,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Orford, Edward Russell, --  Earl of, 1653-1727.</term>
+               <term>England and Wales. --  Royal Navy --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="pamphlet">
+            <pb facs="tcp:184441:1" rendition="simple:additions"/>
+            <head>THE CHARGE OF THE Admirals of England.</head>
+            <p>Licenſed according to Order.</p>
+            <p>AS <hi>England</hi> is Wall'd round with a Wall of Water, Her De<g ref="char:EOLhyphen"/>fence of that Wall by Her Floating Caſtles, Her Naval Strength and Management, is her greateſt, if not almoſt Her only Bulwarks and Rampants. This is moſt certain, as the <hi>Britiſh</hi> Empire holds a two-fold <hi>Regale,</hi> Her <hi>Scepter,</hi> and Her <hi>Trident;</hi> Her Dominion at Land, and Her Soveraignty at Sea; ſo, that Maritine Principality being the <hi>Frontiers</hi> and <hi>Out-lines</hi> of Her whole Power and Territories, and conſequently Her chiefeſt Strength, as being Her only Inlet; that Deputed Hand, that under the Imperial Commiſſion, has the <hi>Charge</hi> of Her <hi>Admiralty,</hi> has the higheſt Poſt of Honour, and the moſt Impor<g ref="char:EOLhyphen"/>tant Truſt that a Crown'd Head can lodge in a Subject. For, as no At<g ref="char:EOLhyphen"/>taque can be made upon <hi>England,</hi> without firſt gaining Her <hi>Maſtery</hi> of the <hi>Sea,</hi> the Preſervation of that faireſt of Her Crown-Jewels is, and ought to be Her ableſt Care and Induſtry.</p>
+            <p>This is notoriouſly manifeſt from the never-dying Fame of our Great <hi>Elizabeth,</hi> where one intire Naval Triumph o're <hi>Spain,</hi> was of more Advantage to this Kingdom, and carried more Trophies along with it, than all the Battles and Succeſſes of a <hi>Third Edward,</hi> or a <hi>Fifth Henry,</hi> in the very Bowels of <hi>France.</hi> For, to ſumm the whole Grandeur of that Greateſt of Potentates, and beſt of Queens; Her Sword-work at Land, tho' encompaſſed with Enemies, was nothing to Her Thunder-work at <hi>Sea.</hi>
+            </p>
+            <p>The Fortune of that ſingle Stroke, attended with ſo great a Blow upon <hi>Spain,</hi> and Her prudent Caution of ſuppreſſing the Maritine Growth of <hi>France,</hi> even againſt their great <hi>Fourth Henry</hi> himſelf, in threatning to burn his Navy in their Harbour for ſo much as attempting to build a Capital <hi>Ship of War,</hi> was of that high Import to the <hi>Engliſh</hi> Grandeur; that had Her Politicks been purſued, and Her Advantages from that onely Succeſs been rightly improved by Her Maſculine, tho' (Heavens knows) more Effeminate Succeſſors; <hi>England</hi> had held the Scale of <hi>Europe</hi> to
+<pb facs="tcp:184441:2"/>End of the World, and the preſent Greatneſs of <hi>France,</hi> the now Terror of <hi>Chriſtendom,</hi> had been wholly an impracticable Attempt and Ambition.</p>
+            <p>But as the aforeſaid Eſteminacy of the ſucceeding Reigns, utterly ne<g ref="char:EOLhyphen"/>glected that fortunate Occaſion, and loſt the happy <hi>Forelock;</hi> which had we held, we had awed the whole World, and preſerved the <hi>Engliſh</hi> Greatneſs, as immortal, as that <hi>Princeſſes</hi> never-dying Memory, and has thereby ſo infinitely leſſened our Original <hi>Britiſh</hi> Luſtre: Nevertheleſs, 'tis not ſo late, even after all our Loſſes, and former Miſ-managements, to en<g ref="char:EOLhyphen"/>deavour ſome part at leaſt of ſo neceſſary a Recovery. This Glory at leaſt we have to boaſt, for our Encouragement, That never more hardy Cou<g ref="char:EOLhyphen"/>rage ſate on the <hi>Engliſh</hi> Throne than now. Nor a <hi>Prince,</hi> whoſe Endea<g ref="char:EOLhyphen"/>vours and Zeal can be more ſtrenuous, or more indefatigable, for the Redemption of our too long falling Glory. Cou'd all Hands follow; but as this leads, both Fear and Deſpair would be far from our Doors, and a new Dawn of Hopes ſurronnd us.</p>
+            <p>But to return to our <hi>Admiral</hi>'s Cauſe: As the <hi>Sea</hi> is a <hi>Diviſum Im<g ref="char:EOLhyphen"/>perium,</hi> a ſeparate Soveraignty from that of the <hi>Land;</hi> and accordingly the Laws; by which all Maritine Affairs are tried, are different from the common Law of the Nation; So the <hi>Lord High Admiral</hi> of <hi>England</hi>'s Commiſſion, as ſo much different from any other Command, conſtitutes him no leſs than a <hi>Viceroy;</hi> a Title above any other Dignity, or Prefer<g ref="char:EOLhyphen"/>ment whatever.</p>
+            <p>If the Honour of the Command it ſelf be ſo Eminent and Illuſtrious, the Faithful and Zealous Execution of it muſt be truly more Honourable and Illuſtrious; for indeed 'tis only the Diſcharge of a Truſt, and the Exertion of Virtuous Actions, and Gallant Atchievements, are the true Foundati<g ref="char:EOLhyphen"/>on of Renown and Glory.</p>
+            <p>As the ever-memorable <hi>Drake</hi> has left a Name that will live as long Time it ſelf ſhall laſt; we may likewiſe add, That our latter Honourable Admiral <hi>Ruſſel</hi> has acquired as large a ſhare of Fame, as true <hi>Engliſh</hi> Courage, rewarded with Succeſs and Victory, can well reach. And 'tis highly to be wiſh'd, that our this preſent Years latter Expedition, in our <hi>Joynt Commiſſion of Admiralty,</hi> cou'd have met with as fair a Chapplet of Lawrels. But if either any unſmiling Providences above, or unhappier Conduct below, have deny'd us that Bleſſing; 'tis our Misfortune, that ſo fair a Chian ſhould ever be broken, and that ſuch Signal Happineſſes ſhould be other than the continued ſhow'ring Favours of our kind Stars.</p>
+            <p>But whether our this Years Unhappineſs at <hi>Sea</hi> was <hi>Misfortune,</hi> or <hi>Miſ-management,</hi> is a Province above me; 'tis ſafficient, that <hi>Sub Judice lis eſt.</hi> The Cauſe is depending before the Great Council of the Land, Our Patriots in <hi>Parliament</hi> Aſſembled, whoſe Vigilance and Wiſdom, as they have the Inſpection now before them; ſo their Hands have the Bal<g ref="char:EOLhyphen"/>lance, and Scales, to do Juſtice accordingly.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Batcheler,</hi> at <hi>Charing-Croſs,</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
